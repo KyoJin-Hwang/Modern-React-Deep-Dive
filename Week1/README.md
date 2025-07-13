@@ -25,7 +25,7 @@
 
 - 
 
-> <a href="Week1/quiz.md">퀴즈</a>
+> <a href="/quiz.md">퀴즈</a>
 
 <br/>
 
