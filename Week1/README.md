@@ -25,7 +25,7 @@
 
 - 
 
-> <a href="/quiz.md">퀴즈</a>
+> [퀴즈](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/main/Week1/quiz.md)
 
 <br/>
 
