@@ -19,5 +19,5 @@
 
 ## 📌 학습 목차 
 ### 01.자바스크립트 ~~~]
-[1-1](Week1/교진/1-1 자바스크립트의 동등비교.md)
+[1-1 자바스크립트의 동등비교](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/main/Week1/교진/1-1_자바스크립트의_동등비교.md)
 
