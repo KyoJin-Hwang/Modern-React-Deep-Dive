@@ -34,6 +34,6 @@
 
 ## 👤 스터디원
 
-|<img src="https://avatars.githubusercontent.com/u/66587876?v=4" width="150" height="150"/>|<img src="" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/66587876?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/76976331?v=4" width="150" height="150"/>|
 |:-:|:-:|
-|황교진<br/>[@Kyojin-Hwang](https://github.com/Kyojin-Hwang)|남궁은선<br/>[@Kyojin-Hwang](https://github.com/Kyojin-Hwang)|
+|황교진<br/>[@Kyojin-Hwang](https://github.com/Kyojin-Hwang)|남궁은선<br/>[@Grapefruitgreentealoe](https://github.com/grapefruitgreentealoe)|
