@@ -1,8 +1,7 @@
 # ⭐️ Modern-React-Deep-Dive
 <img src="./book.png" width="400px" alt="책 표지" />
 <br/>
-
-### 모던 리액트 Deep Dive Book Study 
+모던 리액트 Deep Dive Book Study 
 
 <br />
 
