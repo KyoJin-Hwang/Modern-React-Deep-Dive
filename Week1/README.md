@@ -24,8 +24,8 @@
 ## 👤 맡은 사람
 | 목차 | 담당자 |준비|
 |----|--------|---|
-| 1장 | [황교진] |✅|
-| 2장 | [남궁은선] |✅|
+| [1장](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/tree/main/Week1/%ED%99%A9%EA%B5%90%EC%A7%84) | [황교진] |✅|
+| [2장](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/tree/main/Week1/%EB%82%A8%EA%B6%81%EC%9D%80%EC%84%A0) | [남궁은선] |✅|
 
 <br/>
 
