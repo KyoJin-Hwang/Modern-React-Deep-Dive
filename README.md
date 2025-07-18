@@ -1,8 +1,13 @@
-# Modern-React-Deep-Dive
-![alt text](<book.png>)
-모던 리액트 Deep Dive Book Study 
+# ⭐️ Modern-React-Deep-Dive
+<img src="./book.png" width="400px" alt="책 표지" />
+<br/>
+
+### 모던 리액트 Deep Dive Book Study 
 
 <br />
+
+## 📌 스터디 목표
+- 
 
 ## 🕓 스터디 시간
 일시 : 매주 토요일 am10:00 ~ 11:00
