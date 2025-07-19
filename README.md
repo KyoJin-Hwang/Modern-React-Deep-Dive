@@ -46,7 +46,7 @@
 | 주차  | 진행 | 스터디 날짜       | 챕터               | 참여자 |비고|
 |-------|------|------------|--------------------|-------|---|
 | [1주차](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/tree/main/Week1) |   ✅  | 2025-07-19 | Chapter 1, 2       | ALL|❌|
-| [1주차](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/tree/main/Week2) |   ✅  | 2025-07-26 | Chapter 3, 4       | ALL|❌|
+| [2주차](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/tree/main/Week2) |   ✅  | 2025-07-26 | Chapter 3, 4       | ALL|❌|
 
 
 
