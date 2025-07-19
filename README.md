@@ -46,6 +46,7 @@
 | 주차  | 진행 | 스터디 날짜       | 챕터               | 참여자 |비고|
 |-------|------|------------|--------------------|-------|---|
 | [1주차](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/tree/main/Week1) |   ✅  | 2025-07-19 | Chapter 1, 2       | ALL|❌|
+| [1주차](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/tree/main/Week2) |   ✅  | 2025-07-26 | Chapter 3, 4       | ALL|❌|
 
 
 
@@ -55,3 +56,4 @@
 |<img width="150" height="150" src="https://github.com/user-attachments/assets/8f258e86-de1c-4882-883c-8107815db898" />|<img src="https://avatars.githubusercontent.com/u/76976331?v=4" width="150" height="150"/>|
 |:-:|:-:|
 |황교진<br/>[@Kyojin-Hwang](https://github.com/Kyojin-Hwang)|남궁은선<br/>[@Grapefruitgreentealoe](https://github.com/grapefruitgreentealoe)|
+
