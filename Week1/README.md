@@ -1,25 +1,32 @@
 # 📚 Week 1
 
 ## ⭐️ 학습 범위
-<details>
-<summary> <b> 01장: 리액트 개발을 위해 꼭 알아야 할 자바스크립트</b>  </summary>
-<div markdown="1">
-<hr/>
-1.1 자바스크립트의 동등 비교<br />__1.1.1 자바스크립트의 데이터 타입<br />__1.1.2 값을 저장하는 방식의 차이<br />__1.1.3 자바스크립트의 또 다른 비교 공식, Object.is<br />__1.1.4 리액트에서의 동등 비교<br />__1.1.5 정리<br />1.2 함수<br />__1.2.1 함수란 무엇인가?<br />__1.2.2 함수를 정의하는 4가지 방법<br />__1.2.3 다양한 함수 살펴보기<br />__1.2.4 함수를 만들 때 주의해야 할 사항<br />__1.2.5 정리<br />1.3 클래스<br />__1.3.1 클래스란 무엇인가?<br />__1.3.2 클래스와 함수의 관계<br />__1.3.3 정리<br />1.4 클로저<br />__1.4.1 클로저의 정의<br />__1.4.2 변수의 유효 범위, 스코프<br />__1.4.3 클로저의 활용<br />__1.4.4 주의할 점<br />__1.4.5 정리<br />1.5 이벤트 루프와 비동기 통신의 이해<br />__1.5.1 싱글 스레드 자바스크립트<br />__1.5.2 이벤트 루프란?<br />__1.5.3 태스크 큐와 마이크로 태스크 큐<br />__1.5.4 정리<br />1.6 리액트에서 자주 사용하는 자바스크립트 문법<br />__1.6.1 구조 분해 할당<br />__1.6.2 전개 구문<br />__1.6.3 객체 초기자<br />__1.6.4 Array 프로토타입의 메서드: map, filter, reduce, forEach<br />__1.6.5 삼항 조건 연산자<br />__1.6.6 정리<br />1.7 선택이 아닌 필수, 타입스크립트<br />__1.7.1 타입스크립트란?<br />__1.7.2 리액트 코드를 효과적으로 작성하기 위한 타입스크립트 활용법<br />__1.7.3 타입스크립트 전환 가이드<br />__1.7.4 정리
-</div>
-<hr/>
-</details>
+<b> 01장: 리액트 개발을 위해 꼭 알아야 할 자바스크립트</b>
 
-<details>
-<summary> <b> 02장: 리액트 핵심 요소 깊게 살펴보기 </b>  </summary>
-<div markdown="1">
-<hr/>
-2.1 JSX란?<br />__2.1.1 JSX의 정의<br />__2.1.2 JSX 예제<br />__2.1.3 JSX는 어떻게 자바스크립트에서 변환될까?<br />__2.1.4 정리<br />2.2 가상 DOM과 리액트 파이버<br />__2.2.1 DOM과 브라우저 렌더링 과정<br />__2.2.2 가상 DOM의 탄생 배경<br />__2.2.3 가상 DOM을 위한 아키텍처, 리액트 파이버<br />__2.2.4 파이버와 가상 DOM<br />__2.2.5 정리<br />2.3 클래스형 컴포넌트와 함수형 컴포넌트<br />__2.3.1 클래스형 컴포넌트<br />__2.3.2 함수형 컴포넌트<br />__2.3.3 함수형 컴포넌트 vs. 클래스형 컴포넌트<br />__2.3.4 정리<br />2.4 렌더링은 어떻게 일어나는가?<br />__2.4.1 리액트의 렌더링이란?<br />__2.4.2 리액트의 렌더링이 일어나는 이유<br />__2.4.3 리액트의 렌더링 프로세스<br />__2.4.4 렌더와 커밋<br />__2.4.5 일반적인 렌더링 시나리오 살펴보기<br />__2.4.6 정리<br />2.5 컴포넌트와 함수의 무거운 연산을 기억해 두는 메모이제이션<br />__2.5.1 주장 1: 섣부른 최적화는 독이다, 꼭 필요한 곳에만 메모이제이션을 추가하자<br />__2.5.2 주장 2: 렌더링 과정의 비용은 비싸다, 모조리 메모이제이션해 버리자<br />__2.5.3 결론 및 정리<br />
-<hr/>
-</div>
-</details>
+[1.1 자바스크립트의 동등비교](KyoJin-Hwang/Modern-React-Deep-Dive/Week1/황교진/1-1_자바스크립트의_동등비교.md)
 
-<br/>
+[1.2 함수](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-2_%ED%95%A8%EC%88%98.md)
+
+[1-3 클래스](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-3_%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+
+[1.4 클로저](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-4_%ED%81%B4%EB%A1%9C%EC%A0%80.md)
+
+[1-5. 이벤트 루프와 비동기 통신의 이해](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-5_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EB%A3%A8%ED%94%84%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0_%ED%86%B5%EC%8B%A0%EC%9D%98_%EC%9D%B4%ED%95%B4.md)
+
+
+
+<b> 02장: 리액트 핵심 요소 깊게 살펴보기 </b> 
+
+[2-1. JSX란](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%EB%82%A8%EA%B6%81%EC%9D%80%EC%84%A0/2%EC%9E%A5/2-1_JSX%EB%9E%80.md)
+
+[2-2. 가상 DOM과 리액트 파이버](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%EB%82%A8%EA%B6%81%EC%9D%80%EC%84%A0/2%EC%9E%A5/2-2_%EA%B0%80%EC%83%81_DOM%EA%B3%BC_%EB%A6%AC%EC%95%A1%ED%8A%B8_%ED%8C%8C%EC%9D%B4%EB%B2%84.md)
+
+[2-3. 클래스 컴포넌트와 함수 컴포넌트](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%EB%82%A8%EA%B6%81%EC%9D%80%EC%84%A0/2%EC%9E%A5/2-3_%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80_%ED%95%A8%EC%88%98_%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
+
+[2-4. 렌더링은 어떻게 일어나는가](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%EB%82%A8%EA%B6%81%EC%9D%80%EC%84%A0/2%EC%9E%A5/2-4_%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%80_%EC%96%B4%EB%96%BB%EA%B2%8C_%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%EA%B0%80.md)
+
+[2-5. 메모이제이션](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%EB%82%A8%EA%B6%81%EC%9D%80%EC%84%A0/2%EC%9E%A5/2-5_%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98.md)
+
 
 ## 👤 맡은 사람
 | 목차 | 담당자 |준비|
@@ -33,16 +40,12 @@
 
 ### 📅 [2025-07-19]
 
-#### 💬 토론 내용
-- 
-
-#### ❓ 질문 및 의견
-
-- 
-
-> [퀴즈](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/main/Week1/quiz.md)
+#### 💬 토론
+https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/issues/4
 
 <br/>
 
 ## 📝 기타 메모
-- 
+- 매주 토요일 아침 9:30로 시간 변경
+- 퀴즈는 내용 중간중간 넣기
+- [이슈](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/issues)에 매주 토론 내용 작성
