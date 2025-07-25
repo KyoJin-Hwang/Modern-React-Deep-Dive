@@ -3,15 +3,19 @@
 ## ⭐️ 학습 범위
 <b> 01장: 리액트 개발을 위해 꼭 알아야 할 자바스크립트</b>
 
-[1.1 자바스크립트의 동등비교](KyoJin-Hwang/Modern-React-Deep-Dive/Week1/황교진/1-1_자바스크립트의_동등비교.md)
+[1-1 자바스크립트의 동등비교](KyoJin-Hwang/Modern-React-Deep-Dive/Week1/황교진/1-1_자바스크립트의_동등비교.md)
 
-[1.2 함수](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-2_%ED%95%A8%EC%88%98.md)
+[1-2 함수](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-2_%ED%95%A8%EC%88%98.md)
 
 [1-3 클래스](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-3_%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 
 [1.4 클로저](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-4_%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 
 [1-5. 이벤트 루프와 비동기 통신의 이해](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/646642c1a99d22f4da58c914ee38737f6da3129b/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-5_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EB%A3%A8%ED%94%84%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0_%ED%86%B5%EC%8B%A0%EC%9D%98_%EC%9D%B4%ED%95%B4.md)
+
+[1-6 리액트에서 자주 사용하는 자바스크립트 문법](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/d6ea1e75bb1b34c697c90727665be2ce7781d9cb/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-6_%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C_%EC%9E%90%EC%A3%BC_%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94_%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EB%AC%B8%EB%B2%95.md)
+
+[1-7 선택이 아닌 필수 타입스크립트](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/blob/d6ea1e75bb1b34c697c90727665be2ce7781d9cb/Week1/%ED%99%A9%EA%B5%90%EC%A7%84/1-7_%EC%84%A0%ED%83%9D%EC%9D%B4_%EC%95%84%EB%8B%8C_%ED%95%84%EC%88%98_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8.md)
 
 
 
