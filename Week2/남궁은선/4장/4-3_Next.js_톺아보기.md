@@ -99,13 +99,14 @@ getServersideProps의 context의 query.props 를 통해 접근이 가능하다.
     - 이 스크립트는 getServerSideProps의 정보인 props뿐 아니라 현재 페이지 정보, query 등 다양한 정보가 있다. 
     - script형태로 삽입되어 있는 이유는, fetch시점에 따라 결과물의 불일치가 발생할 수 있으므로 서버에서 가져온 정보를 HTML에 script형태로 내려주는 것이다. 
     - Next.js에서는 이 정보를 window객체에도 저장해 둔다. 
->> Q.__NEXT_DATA__안에 class나 Date를 담을 수 있나요? 
+> Q.__NEXT_DATA__안에 class나 Date를 담을 수 있나요? 
 >   A.아니다. 
 >    - 이 정보는 직렬화가 가능한 정보만 담을 수 있다. 즉 class나 Date 등은 제공 불가. 
 >    - "Reason: object ("[object Date]") cannot be serialized as JSON. Please only return JSON serializable data types.라는 에러가 발생한다.
-     - 서버에서만 실행된다. 
-     - API호출 시, protocal과 domain없이 fetch요청이 불가하다. 브라우저와 달리 서버는 자신의 호스트를 유추할 수 없기 때문이다.
-     - 여기서 에러가 발생하면 에러페이지로 리다이렉트된다. 
+>    - 서버에서만 실행된다. 
+>    - API호출 시, protocal과 domain없이 fetch요청이 불가하다. 브라우저와 달리 서버는 자신의 호스트를 유추할 수 없기 때문이다.
+>    - 여기서 에러가 발생하면 에러페이지로 리다이렉트된다.
+
 - 컴포넌트 내 이벤트 핸들러함수와 useEffect와 같은 경우를 제외하고 서버에서 실행될 수 있기 때문에, 클라이언트에서만 실행 가능한 부분은 별도 처리해야한다. 
 - 이 함수는 사용자가 매 페이지를 호출할 때마다 실행되고, 끝나기 전까지는 사용자에게 아무것도 못보여준다. 따라서 간결하게 작성해야한다. 
 -  최초에 보여줘야할 데이터가 아니라면 클라이언트에서 호출하는 것이 유리하다. 
