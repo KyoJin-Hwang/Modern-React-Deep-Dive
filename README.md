@@ -20,7 +20,7 @@
 - 매주 문서작성자 선정 
 - **깃허브** 주차별 폴더에 발표자료 정리
     - 면접질문 or 발표내용 정리 
-- 매주 토요일 아침 9:30로 시간 변경
+- 매주 토요일 아침 9:30
 - [이슈](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/issues)에 매주 토론 내용 작성
 
 ## 📝 내용 정리
@@ -48,6 +48,7 @@
 |-------|------|------------|--------------------|-------|---|
 | [1주차](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/tree/main/Week1) |   ✅  | 2025-07-19 | Chapter 1, 2       | ALL|❌|
 | [2주차](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/tree/main/Week2) |   ✅  | 2025-07-26 | Chapter 3, 4       | ALL|❌|
+| [3주차](https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/tree/main/Week3) |   ✅  | 2025-08-01 | Chapter 5, 6, 7       | ALL|❌|
 
 
 
