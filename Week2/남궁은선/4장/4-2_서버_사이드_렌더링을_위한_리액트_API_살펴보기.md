@@ -7,6 +7,8 @@
 > Q. 리액트 18 전후에 서버사이드 관련 어떤 변화가 있었을까?
 >
 > Q. 리액트 19에는 서버사이드 관련 어떤 변화가 있었을까?
+> <img width="769" height="248" alt="image" src="https://github.com/user-attachments/assets/ea49a031-5b45-4ed0-b92a-7a8a65eb5fe7" />
+
 
 ##  renderToString
 - 인수로 넘겨받은 리액트 컴포넌트를 렌더링해 HTML 문자열로 반환하는 함수
