@@ -25,7 +25,7 @@
 ### 📅 [2025-07-19]
 
 #### 💬 토론
-https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/issues/5
+https://github.com/KyoJin-Hwang/Modern-React-Deep-Dive/issues/7
 
 <br/>
 
